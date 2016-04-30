@@ -14,3 +14,8 @@
 ## Projects
 
 * [yunodb – A portable, persistent, electron compatible fulltext search + document store database for node.js. LevelDB underneath.](https://github.com/blahah/yunodb)
+
+## Others
+
+* [searchbox – Just a searchbox generator](https://shipow.github.io/searchbox/).
+* [algolia-webcrawler – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date](https://github.com/DeuxHuitHuit/algolia-webcrawler)
