@@ -11,6 +11,10 @@
 
 * Algolia
 
+## Examples
+
+* [NPM Trends – NPM package comparison app](https://github.com/johnmpotter/npm-trends).
+
 ## Projects
 
 * [yunodb – A portable, persistent, electron compatible fulltext search + document store database for node.js. LevelDB underneath.](https://github.com/blahah/yunodb)
