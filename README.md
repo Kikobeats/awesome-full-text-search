@@ -18,4 +18,4 @@
 ## Projects
   * [NPM Trends – NPM package comparison app](https://github.com/johnmpotter/npm-trends).
   * [searchbox – Just a searchbox generator](https://shipow.github.io/searchbox/).
-  * [algolia-webcrawler – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date](https://github.com/DeuxHuitHuit/algolia-webcrawler)g
+  * [algolia-webcrawler – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date](https://github.com/DeuxHuitHuit/algolia-webcrawler)
