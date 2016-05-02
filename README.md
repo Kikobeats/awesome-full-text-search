@@ -4,22 +4,18 @@
 
 ## Engines
 
-* elastisearch
-* Solr
+### MongoDB
+  * [Full-Text Search in MongoDB](http://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835).
 
-## Services
+### Elastisearch
+### Solr
+### Others
+  * [yunodb – A portable, persistent, electron compatible fulltext search + document store database for node.js. LevelDB underneath.](https://github.com/blahah/yunodb)
 
-* Algolia
-
-## Examples
-
-* [NPM Trends – NPM package comparison app](https://github.com/johnmpotter/npm-trends).
+## PaaS
+### Algolia
 
 ## Projects
-
-* [yunodb – A portable, persistent, electron compatible fulltext search + document store database for node.js. LevelDB underneath.](https://github.com/blahah/yunodb)
-
-## Others
-
-* [searchbox – Just a searchbox generator](https://shipow.github.io/searchbox/).
-* [algolia-webcrawler – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date](https://github.com/DeuxHuitHuit/algolia-webcrawler)
+  * [NPM Trends – NPM package comparison app](https://github.com/johnmpotter/npm-trends).
+  * [searchbox – Just a searchbox generator](https://shipow.github.io/searchbox/).
+  * [algolia-webcrawler – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date](https://github.com/DeuxHuitHuit/algolia-webcrawler)g
