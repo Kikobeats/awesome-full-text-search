@@ -22,10 +22,10 @@
 
  * *SOON*
 
- ## Browser
+## Browser
 
-  * [Lunr](http://lunrjs.com) – A bit like Solr, but much smaller and not as bright.
-  * [pouchdb-quick-search](https://github.com/nolanlawson/pouchdb-quick-search) – Full-text search engine on top of PouchDB.
+ * [Lunr](http://lunrjs.com) – A bit like Solr, but much smaller and not as bright.
+ * [pouchdb-quick-search](https://github.com/nolanlawson/pouchdb-quick-search) – Full-text search engine on top of PouchDB.
 
 ## UI Interface
 
