@@ -7,6 +7,8 @@
 ## MongoDB
 
  * [Full-Text Search in MongoDB](http://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835).
+ * [mongoosastic](https://github.com/mongoosastic/mongoosastic) – Index Mongoose models into elasticsearch automatically.
+ * [mongoose-text-search](https://github.com/aheckmann/mongoose-text-search) – MongoDB 2.4 text search support for mongoose.
 
 ## Redis
 
@@ -34,3 +36,4 @@
 
  * [NPM Trends](https://github.com/johnmpotter/npm-trends) – NPM package comparison app based on Elasticsearch.
  * [algolia-webcrawler](https://github.com/DeuxHuitHuit/algolia-webcrawler) – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date
+ * [tweetarchive](https://github.com/paulsmith/tweetarchive) – Full-text search for your Twitter archive based on PostgreSQL.
