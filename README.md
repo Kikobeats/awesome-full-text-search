@@ -9,6 +9,7 @@
  * [Full-Text Search in MongoDB](http://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835).
  * [mongoosastic](https://github.com/mongoosastic/mongoosastic) – Index Mongoose models into elasticsearch automatically.
  * [mongoose-text-search](https://github.com/aheckmann/mongoose-text-search) – MongoDB 2.4 text search support for mongoose.
+ * [elmongo](https://github.com/usesold/elmongo) – Give your Mongoose data the Power of Elasticsearch
 
 ## Redis
 
@@ -20,7 +21,7 @@
 
 ## Elasticsearch
 
- * *SOON*
+ * [esta](https://github.com/dwyl/esta) – Simple + Fast ElasticSearch Node.js client.
 
 ## Browser
 
