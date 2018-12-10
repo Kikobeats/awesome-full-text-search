@@ -38,3 +38,4 @@
  * [NPM Trends](https://github.com/johnmpotter/npm-trends) – NPM package comparison app based on Elasticsearch.
  * [algolia-webcrawler](https://github.com/DeuxHuitHuit/algolia-webcrawler) – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date
  * [tweetarchive](https://github.com/paulsmith/tweetarchive) – Full-text search for your Twitter archive based on PostgreSQL.
+ * [FXDesktopSearch](https://github.com/mirkosertic/FXDesktopSearch) - A JavaFX/Lucene/Solr based Desktop-Search-Engine.
