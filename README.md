@@ -20,10 +20,6 @@
 
  * [reds](https://github.com/tj/reds) – light-weight, insanely simple full text search module backed by Redis.
 
-## Solr
-
- * *SOON*
-
 ## Elasticsearch
 
  * [esta](https://github.com/dwyl/esta) – Simple + Fast ElasticSearch Node.js client.
