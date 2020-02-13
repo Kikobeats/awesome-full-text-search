@@ -24,7 +24,8 @@
 
 ## Memory
 
- * [Lunr](http://lunrjs.com) – A bit like Solr, but much smaller and not as bright.
+ * [elasticlunr](http://elasticlunr.com/) – Lightweight full-text search engine in Javascript for browser search and offline search.
+ * [lunr](http://lunrjs.com) – A bit like Solr, but much smaller and not as bright.
  * [pouchdb-quick-search](https://github.com/nolanlawson/pouchdb-quick-search) – Full-text search engine on top of PouchDB.
  * [search-index](https://github.com/fergiemcdowall/search-index) – A persistent, network resilient, full text search library for the browser and Node.js.
  * [reds](https://github.com/tj/reds) – light-weight, insanely simple full text search module backed by Redis.
