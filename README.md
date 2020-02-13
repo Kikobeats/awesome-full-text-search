@@ -33,6 +33,7 @@
 
  * [Searchkit](http://www.searchkit.co/) – UI components for Elasticsearch.
  * [Searchbox](https://shipow.github.io/searchbox/) – Just a searchbox generator.
+ * [algolia/places](https://github.com/algolia/places) – Turn any <input> into an address autocomplete.
 
 ## Datasets
 
