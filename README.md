@@ -26,10 +26,11 @@
 
  * [esta](https://github.com/dwyl/esta) – Simple + Fast ElasticSearch Node.js client.
 
-## Browser
+## Memory
 
  * [Lunr](http://lunrjs.com) – A bit like Solr, but much smaller and not as bright.
  * [pouchdb-quick-search](https://github.com/nolanlawson/pouchdb-quick-search) – Full-text search engine on top of PouchDB.
+ * [search-index](https://github.com/fergiemcdowall/search-index) – A persistent, network resilient, full text search library for the browser and Node.js.
 
 ## UI Interface
 
