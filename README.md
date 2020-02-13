@@ -14,6 +14,7 @@
 ## Algolia
 
 * [mongoolia](https://github.com/algolia/mongoolia) – Keep your mongoose schemas synced with Algolia.
+* [algolia-webcrawler](https://github.com/DeuxHuitHuit/algolia-webcrawler) – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date
 
 ## Redis
 
@@ -37,8 +38,11 @@
  * [Searchkit](http://www.searchkit.co/) – UI components for Elasticsearch.
  * [Searchbox](https://shipow.github.io/searchbox/) – Just a searchbox generator.
 
+## Datasets
+
+ * [algolia/datasets](https://github.com/algolia/datasets) – Interesting datasets you could use with Algolia.
+
 ## Projects
 
  * [NPM Trends](https://github.com/johnmpotter/npm-trends) – NPM package comparison app based on Elasticsearch.
- * [algolia-webcrawler](https://github.com/DeuxHuitHuit/algolia-webcrawler) – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date
  * [tweetarchive](https://github.com/paulsmith/tweetarchive) – Full-text search for your Twitter archive based on PostgreSQL.
