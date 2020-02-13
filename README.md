@@ -31,7 +31,8 @@
  * [reds](https://github.com/tj/reds) – light-weight, insanely simple full text search module backed by Redis.
  * [fulltext-engine](https://github.com/eugeneware/fulltext-engine) – Full text search backed by levelup/leveldb engine.
  * [levi](https://github.com/cshum/levi) – Stream based full-text search for Node.js and browsers.
- * [minisearch](https://github.com/lucaong/minisearch) – tTny but powerful in-memory fulltext search engine written in JavaScript.
+ * [minisearch](https://github.com/lucaong/minisearch) – Tiny but powerful in-memory fulltext search engine written in JavaScript.
+ * [flexsearch](https://github.com/nextapps-de/flexsearch) – Next-Generation full text search library for Browser and Node.js.
   
 ## UI Interface
 
