@@ -10,6 +10,10 @@
  * [mongoosastic](https://github.com/mongoosastic/mongoosastic) – Index Mongoose models into elasticsearch automatically.
  * [mongoose-text-search](https://github.com/aheckmann/mongoose-text-search) – MongoDB 2.4 text search support for mongoose.
  * [elmongo](https://github.com/usesold/elmongo) – Give your Mongoose data the Power of Elasticsearch
+ 
+## Algolia
+
+* [mongoolia](https://github.com/algolia/mongoolia) – Keep your mongoose schemas synced with Algolia.
 
 ## Redis
 
