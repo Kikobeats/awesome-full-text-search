@@ -15,6 +15,7 @@
 
 * [mongoolia](https://github.com/algolia/mongoolia) – Keep your mongoose schemas synced with Algolia.
 * [algolia-webcrawler](https://github.com/DeuxHuitHuit/algolia-webcrawler) – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date
+* [algolia-sitemap](https://github.com/algolia/algolia-sitemap) – A Node.js library allowing you to generate sitemaps from an Algolia index.
 
 ## Redis
 
