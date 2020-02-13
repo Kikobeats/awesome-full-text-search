@@ -29,6 +29,7 @@
  * [search-index](https://github.com/fergiemcdowall/search-index) – A persistent, network resilient, full text search library for the browser and Node.js.
  * [reds](https://github.com/tj/reds) – light-weight, insanely simple full text search module backed by Redis.
  * [fulltext-engine](https://github.com/eugeneware/fulltext-engine) – Full text search backed by levelup/leveldb engine.
+ * [levi](https://github.com/cshum/levi) – Stream based full-text search for Node.js and browsers.
   
 ## UI Interface
 
