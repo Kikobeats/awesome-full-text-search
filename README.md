@@ -18,10 +18,6 @@
 * [algolia-webcrawler](https://github.com/DeuxHuitHuit/algolia-webcrawler) – Simple node worker that crawls sitemaps in order to keep an algolia index up-to-date
 * [algolia-sitemap](https://github.com/algolia/algolia-sitemap) – A Node.js library allowing you to generate sitemaps from an Algolia index.
 
-## Redis
-
- * [reds](https://github.com/tj/reds) – light-weight, insanely simple full text search module backed by Redis.
-
 ## Elasticsearch
 
  * [esta](https://github.com/dwyl/esta) – Simple + Fast ElasticSearch Node.js client.
@@ -31,7 +27,9 @@
  * [Lunr](http://lunrjs.com) – A bit like Solr, but much smaller and not as bright.
  * [pouchdb-quick-search](https://github.com/nolanlawson/pouchdb-quick-search) – Full-text search engine on top of PouchDB.
  * [search-index](https://github.com/fergiemcdowall/search-index) – A persistent, network resilient, full text search library for the browser and Node.js.
-
+ * [reds](https://github.com/tj/reds) – light-weight, insanely simple full text search module backed by Redis.
+ * [fulltext-engine](https://github.com/eugeneware/fulltext-engine) – Full text search backed by levelup/leveldb engine.
+  
 ## UI Interface
 
  * [Searchkit](http://www.searchkit.co/) – UI components for Elasticsearch.
