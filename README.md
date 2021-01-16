@@ -34,6 +34,7 @@
  * [minisearch](https://github.com/lucaong/minisearch) – Tiny but powerful in-memory fulltext search engine written in JavaScript.
  * [flexsearch](https://github.com/nextapps-de/flexsearch) – Next-Generation full text search library for Browser and Node.js.
  * [tinysearch](https://github.com/tinysearch/tinysearch) – This is a lightweight, fast, full-text search engine for static websites.
+ * [stork](https://github.com/jameslittle230/stork) – Fast web search, made for static sites.
   
 ## UI Interface
 
