@@ -16,7 +16,7 @@
 * [Full-Text Search in MongoDB](http://code.tutsplus.com/tutorials/full-text-search-in-mongodb--cms-24835) - How to Full-Text Search in MongoDB.
 * [mongoosastic](https://github.com/mongoosastic/mongoosastic) - Index Mongoose models into elasticsearch automatically.
 * [mongoose-text-search](https://github.com/aheckmann/mongoose-text-search) - MongoDB 2.4 text search support for mongoose.
-* [elmongo](https://github.com/usesold/elmongo) - Give your Mongoose data the Power of Elasticsearch.
+* [elmongo](https://github.com/jtremback/elmongo) - Give your Mongoose data the Power of Elasticsearch.
  
 ## Algolia
 
